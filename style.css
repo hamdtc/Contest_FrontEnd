@@ -72,6 +72,12 @@
     background: #111111;
     border-radius: 30px;
  }
+
+ .butt:hover{
+    background-color: rgb(145, 10, 10);
+    color: rgb(255, 255, 255);
+    cursor:pointer;
+ }
  .text{
     position: absolute;
     width: 121px;
